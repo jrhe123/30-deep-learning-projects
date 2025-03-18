@@ -19,7 +19,13 @@
 - https://arxiv.org/abs/2005.04259
 - https://github.com/argoverse/argoverse-api
 - https://www.argoverse.org/av1.html#download-link
-- pip3 install -e argoverse-api-master/
+
+- version:
+    - python3.7
+    - numpy==1.19.0
+    - rosetta 2 -> X86_64
+    - CONDA_SUBDIR=osx-64 conda create -n argoverse_env -c conda-forge python=3.8 numpy=1.19.0
+    - SKLEARN_ALLOW_DEPRECATED_SKLEARN_PACKAGE_INSTALL=True pip3 install -e argoverse-api-master/
 
 
 ## References:
