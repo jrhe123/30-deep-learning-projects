@@ -1,5 +1,6 @@
 # assets
 images/
+videos/
 
 # PyTorch model dict
 *.pt
