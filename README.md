@@ -14,5 +14,13 @@
 
 
 
+### 3. Orbit prediction
+- Argoverse api detects the orbit of the car
+- https://arxiv.org/abs/2005.04259
+- https://github.com/argoverse/argoverse-api
+- https://www.argoverse.org/av1.html#download-link
+- pip3 install -e argoverse-api-master/
+
+
 ## References:
 - https://www.bilibili.com/video/BV1n3rhYwE7G?spm_id_from=333.788.player.switch&vd_source=5b38429dc2a3c27f4efb082ccdfe871a&p=4

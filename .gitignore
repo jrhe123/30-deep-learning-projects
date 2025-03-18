@@ -1,6 +1,7 @@
 # assets
 images/
 videos/
+csv/
 
 # PyTorch model dict
 *.pt
@@ -9,3 +10,11 @@ videos/
 # 68 face landmark detection model
 shape_predictor_68_face_landmarks.dat
 shape_predictor_68_face_landmarks.dat.bz2
+
+# argoverse project setup
+3-orbit-prediction/argoverse-api-master/demo_usage/
+3-orbit-prediction/argoverse-api-master/docs/
+3-orbit-prediction/argoverse-api-master/images/
+3-orbit-prediction/argoverse-api-master/integration_tests/
+3-orbit-prediction/argoverse-api-master/tests/
+3-orbit-prediction/argoverse-api-master/.github/
